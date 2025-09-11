@@ -1,6 +1,6 @@
 # [Teasel]
 
-![Teasel](/Assets/Nature/Teasel.jpg)
+![Teasel](Teasel.jpg)
 
 * **Subject:** "Field of Dried Teasel"
 * **Color Theme Name:** "Autumnal Decay"

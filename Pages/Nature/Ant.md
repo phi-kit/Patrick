@@ -1,6 +1,6 @@
 # [Ant]
 
-![Ant](/Assets/Nature/Ant.jpg)
+![Ant](Ant.jpg)
 
 * **Subject:** "The Solitary Pavement Ant"
 

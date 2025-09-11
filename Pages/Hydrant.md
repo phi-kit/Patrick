@@ -1,6 +1,6 @@
 # [Hydrant]
 
-![Hydrant](/Assets/Hydrant.jpg)
+![Hydrant](Hydrant.jpg)
 
 * **Subject:** "Weathered Yellow Fire Hydrant"
 * **Color Theme Name:** "Industrial Utility"

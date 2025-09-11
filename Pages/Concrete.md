@@ -1,6 +1,6 @@
 # [Concrete]
 
-![Concrete](/Assets/Concrete.jpg)
+![Concrete](Concrete.jpg)
 
 * **Subject:** "Weathered Concrete Pavers"
 * **Color Theme Name:** "Worn Terracotta Path"
