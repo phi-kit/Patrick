@@ -1,12 +1,20 @@
-# [Teasel]
+# Teasel
 
-![Teasel](Teasel.jpg)
+## [Dry Teasel]
 
-* **Subject:** "Field of Dried Teasel"
-* **Color Theme Name:** "Autumnal Decay"
-* **Color Palette:**
-    * **Dried Teasel:** #a18f7c
-    * **Undergrowth Green:** #516447
-    * **Deep Shadow:** #3a3832
-    * **Wood Fence:** #bca990
-* **Prompt:** A dense, eye-level photograph of a wild, overgrown field of dried Common Teasel plants in early autumn. The frame is filled with their tall, skeletal stems and prickly, egg-shaped seed heads. The color palette is muted and earthy, dominated by beige, tan, and brown, with some green undergrowth visible. The lighting is soft and diffuse under an overcast sky, emphasizing the intricate, sharp textures throughout the scene.
+[![Dried Teasel Patch by Phi Dao on 500px.com](https://drscdn.500px.org/photo/1116706015/q%3D75_m%3D600_k%3D1/v2?sig=9f44121f907f6b6878cf2c9aa348b4e0683fc8ab1cf25ea0e12933f8142f1f20)](https://500px.com/photo/1116706015/dried-teasel-patch-by-phi-dao)
+
+### Color
+
+Color Theme Name: "Withered Weave"
+
+Color Palette: 
+
+- Dominant (Dried Teasel Tan): #A99A87
+- Secondary (Withered Green): #6A715B
+- Accent (Shadowed Earth): #4C4B44
+- Accent (Wood Fence Brown): #BCA387
+
+### Prompt
+
+A high-resolution, high-angle photograph of a dense, overgrown field of dried Common Teasel. The entire frame is filled with the brittle, tan-colored stalks and prickly, ovoid seed heads. The lighting is soft and diffused from an overcast sky. In the background, the top of a wooden fence is visible. The image is a study of natural texture and pattern.
