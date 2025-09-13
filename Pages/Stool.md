@@ -1,6 +1,6 @@
 # [Stool]
 
-[![Playground Mushroom Stool by Phi Dao on 500px.com](https://drscdn.500px.org/photo/1116704387/q%3D75_m%3D600_k%3D1/v2?sig=f767274d203f8d65e056d2a5b672d48cd6c8fbc448d27bb051b344cab183c5e)](https://500px.com/photo/1116704387/playground-mushroom-stool-by-phi-dao)
+![Playground Mushroom Stool by Phi Dao on 500px.com](https://drscdn.500px.org/photo/1116704387/q%3D75_m%3D600_k%3D1/v2?sig=f767274d203f8d65e056d2a5b672d48cd6c8fbc448d27bb051b344cab183c5e)
 
 ## Colors
 
