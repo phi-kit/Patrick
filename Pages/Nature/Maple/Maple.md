@@ -2,7 +2,9 @@
 
 ## [Autumn Maple]
 
-[Pending]
+Last edited on September 16, 2025.
+
+[![Maple Tree with Green and Red Leaves by Phi Dao on 500px.com](https://drscdn.500px.org/photo/1116801227/q%3D75_m%3D600_k%3D1/v2?sig=0479192d88e3f93245049ac1eeb353cb10f12c721cee05bfe7800cfb76b8d90f)](https://500px.com/photo/1116801227/maple-tree-with-green-and-red-leaves-by-phi-dao)
 
 ### Colors
 
