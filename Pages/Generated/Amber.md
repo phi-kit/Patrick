@@ -4,6 +4,8 @@
 
 Last updated on September 16, 2025.
 
+[![Amber Mall](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/357c260f-21da-4a67-adf4-b4b042c22203/dkjn5wg-495cdd9a-c9e0-4c79-9251-3bed43ee02df.png/v1/fit/w_512,h_512,q_70,strp/amber_by_nonvalen_dkjn5wg-375w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6Ii9mLzM1N2MyNjBmLTIxZGEtNGE2Ny1hZGY0LWI0YjA0MmMyMjIwMy9ka2puNXdnLTQ5NWNkZDlhLWM5ZTAtNGM3OS05MjUxLTNiZWQ0M2VlMDJkZi5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.3PYPhFPY3rTq14xB4uqLCvip8RNhrA5XCzoh7P3VHNg)](https://www.deviantart.com/nonvalen/art/Amber-1242316960)
+
 Description: A digital illustration of a beautiful anime girl with long, magenta and blue hair, wearing a white t-shirt with a colorful hummingbird graphic, and ripped jeans, posing confidently in a brightly lit shopping mall.
 
 Core Concept: A confident and fashionable young woman embodying a modern, vibrant anime aesthetic, captured in a candid pose within a shopping mall.
