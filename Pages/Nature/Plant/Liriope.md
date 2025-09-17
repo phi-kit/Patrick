@@ -57,7 +57,7 @@ Dramatic fine art nature photograph of a single clump of purple Liriope flowers,
 
 ### Erika Prompt
 
-Scene is [Spotlight Liriope] with a single [Pollen Bee] getting nectar.
+Scene is [Spotlight Liriope] with a single [[Pollen Bee]](../Animals/Bee.md) getting nectar.
 
 ### Erika Complication
 
