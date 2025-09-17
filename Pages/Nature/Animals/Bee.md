@@ -40,7 +40,7 @@ Color Palette:
 
 ### Erika Prompt
 
-[Pollen Bee] trying to get nectar from a [Starflower Sedum].
+[Pollen Bee] trying to get nectar from a [[Starflower Sedum]](../Plant/Sedum.md).
 
 ### Erika Compile
 
@@ -53,3 +53,13 @@ The entire scene is set in a garden bed surrounded by dark charcoal wood mulch, 
 ### Erika Result
 
 [![Sedum Bee](/Assets/Generated/SedumBee.png)](/Assets/Generated/SedumBee.png)
+
+### Other Examples
+
+[![Liriope Bee Spotlight 1](/Assets/Generated/LiriopeBeeSpotlight1.png)](/Assets/Generated/LiriopeBeeSpotlight1.png)
+
+[![Liriope Bee Spotlight 2](/Assets/Generated/LiriopeBeeSpotlight2.png)](/Assets/Generated/LiriopeBeeSpotlight2.png)
+
+[![Liriope Bee Spotlight A1](/Assets/Generated/LiriopeBeeSpotlightA1.png)](/Assets/Generated/LiriopeBeeSpotlightA1.png)
+
+[![Liriope Bee Spotlight A2](/Assets/Generated/LiriopeBeeSpotlightA2.png)](/Assets/Generated/LiriopeBeeSpotlightA2.png)

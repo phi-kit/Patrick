@@ -28,3 +28,7 @@ Color Palette:
 - Charcoal Gray: #3C3B3D
 - Forest Green: #4E6936
 - Beige: #D4C3A3
+
+## Erika Example
+
+[![Sedum Bee](/Assets/Generated/SedumBee.png)](/Assets/Generated/SedumBee.png)
