@@ -4,7 +4,7 @@
 
 Last updated on September 16, 2025.
 
-[![Pollen Bee](https://i.ibb.co/VWxN2CY1/Bee.jpg)](https://www.instagram.com/p/DNODBwdtEcx)
+[![Pollen Bee](/Assets/Raw/Bee.jpg)](https://www.instagram.com/p/DNODBwdtEcx)
 > Photo Credit: Matt Wood
 
 Name: Pollinator at Work
@@ -52,4 +52,4 @@ The entire scene is set in a garden bed surrounded by dark charcoal wood mulch, 
 
 ### Erika Result
 
-[![Sedum Bee](/Assets/SedumBee.png)](/Assets/SedumBee.png)
+[![Sedum Bee](/Assets/Generated/SedumBee.png)](/Assets/Generated/SedumBee.png)
