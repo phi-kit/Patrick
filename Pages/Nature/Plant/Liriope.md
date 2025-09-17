@@ -69,7 +69,7 @@ A dramatic fine art macro nature photograph of a single fuzzy black and yellow b
 
 [![Liriope Bee Spotlight 2](/Assets/Generated/LiriopeBeeSpotlight2.png)](/Assets/Generated/LiriopeBeeSpotlight2.png)
 
-### Manual Adjustment
+### Manual Adjustment (Zoom out)
 
 A dramatic fine art ~~macro~~ nature photograph of a single fuzzy black and yellow bumblebee getting nectar from a vibrant clump of purple Liriope flowers. The scene is perfectly illuminated by a solitary sunbeam on a dark forest floor, creating strong chiaroscuro lighting. The bee and the glowing purple flowers are in tack-sharp detail, contrasted against the deep shadows. ~~A large, pale yellow clump of pollen is visible on the bee's hind leg.~~ The ground is covered in brown autumn leaves, creating a moody and atmospheric scene with a shallow depth of field and a dark, out-of-focus background.
 
