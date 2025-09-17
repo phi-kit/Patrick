@@ -1,6 +1,8 @@
 # Liriope
 
-## [Spotlight Liriope]
+## Patrick Deconstruction
+
+### [Spotlight Liriope]
 
 Last updated on September 16, 2025.
 
@@ -18,13 +20,13 @@ Anatomy & Form: A dense, mounding clump of long, slender, arching leaves that ar
 
 Artistic Style: Fine art nature photography, employing a strong chiaroscuro technique. The image is characterized by its dramatic, high-contrast lighting, a dark and moody atmosphere, and a selective focus that isolates the subject.
 
-### Staging
+#### Staging
 
 Lighting: The defining feature is a single, direct beam of sunlight acting as a natural spotlight from above. This creates a powerful "low-key" lighting effect, with a brightly illuminated subject and a background that falls off into deep shadow.
 
 Composition: The subject is placed centrally in the frame, commanding attention. The surrounding darkness and the texture of the leaf litter create a natural vignette, further isolating the illuminated plant. The composition is simple, balanced, and impactful.
 
-### Colors
+#### Colors
 
 Color Theme Name: Woodland Chiaroscuro
 
@@ -35,13 +37,13 @@ Color Palette:
 - Liriope Purple: #a975c6
 - Highlighted Green: #3e542d
 
-### Nature
+#### Nature
 
 Season: Late Summer to Early Autumn. This is the typical blooming period for Liriope muscari, and the heavy layer of fallen leaves on the ground also points to this time of year.
 
 Location: A temperate deciduous or mixed woodland. The dark, rich soil and leaf litter are characteristic of such forests in North America, Europe, or East Asia.
 
-### Science
+#### Science
 
 Material: The subject is a flowering plant from the asparagus family (Asparagaceae), composed of organic matter. The ground cover is detritus—decomposing leaves and organic material.
 
@@ -53,7 +55,7 @@ Components: The scene is simply composed of the central subject (the Liriope pla
 
 Dramatic fine art nature photograph of a single clump of purple Liriope flowers, perfectly illuminated by a solitary sunbeam on a dark forest floor. Strong chiaroscuro lighting, vibrant purple flowers glowing against deep shadows, ground is covered in brown autumn leaves, moody and atmospheric, centered composition.
 
-## Erika
+## Erika Creation
 
 ### Erika Prompt
 
