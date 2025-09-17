@@ -7,6 +7,7 @@
 Last updated on September 16, 2025.
 
 [![Liriope](/Assets/Raw/Liriope.jpeg)](/Assets/Raw/Liriope.jpeg)
+> Photo Credit: Felix Sithiphone
 
 Subject: "Forest Spotlight Liriope"
 
