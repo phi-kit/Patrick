@@ -52,4 +52,4 @@ The entire scene is set in a garden bed surrounded by dark charcoal wood mulch, 
 
 ### Erika Result
 
-[![Sedum Bee](https://i.ibb.co/NgHN2CS1/Gemini-Generated-Image-qwhz2fqwhz2fqwhz.png)](https://ibb.co/cK78h3Lb)
+[![Sedum Bee](/Assets/SedumBee.png)](/Assets/SedumBee.png)
