@@ -40,6 +40,22 @@ These are some of my saved color palettes. If you open open this markdown docume
 - Accent: Golden Light - #FAD5A5
 - Accent: Shadow Gray - #4B4B4F
 
+## Golden Hour Azure
+
+- Dominant Blue: #4A60A5
+- Shadow Purple: #39314A
+- Skin Tone: #F4DDCF
+- Highlight Yellow: #FDE89D
+- Accent Silver: #DDE2E5
+
+## Urban Sunset
+
+- Dominant: Royal Blue - #2955A9
+- Dominant: Black - #1A1A1D
+- Secondary: Violet - #46225A
+- Accent: Cream - #F3EFE0
+- Accent: Gold - #E8C28E
+
 ## Twilight Comfort
 
 - Dominant: Royal Blue - #24458f
