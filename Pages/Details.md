@@ -4,6 +4,11 @@
 
 ## Light Sources
 
-- Floating ember-like particles in the air.
-- Warm, soft key light comes from the candles on the stone walls, creating highlights on her right side.
-- A cool, magical fill light emanates from the floating blue petals, casting a soft blue glow on her front and left side.
+- Ember: Floating ember-like particles in the air.
+- Candles: Warm, soft key light comes from the candles on the stone walls, creating highlights on her right side.
+- Blue Petals: A cool, magical fill light emanates from the floating blue petals, casting a soft blue glow on her front and left side.
+
+## Style
+
+- As a sketch.
+- Simplify to a black and white coloring book page.

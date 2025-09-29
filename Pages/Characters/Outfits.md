@@ -2,6 +2,8 @@
 
 - Off-the-shoulder white cable-knit sweater.
 - An off-the-shoulder, long-sleeved sweater dress.
+- Wearing a black blazer, white collared shirt, black miniskirt, and sheer black tights.
+- Wearing schoolgirl black pleated mini-skirt and white collared shirt with a black vest and tie.
 
 ## Tops
 

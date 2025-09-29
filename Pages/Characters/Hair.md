@@ -3,6 +3,8 @@
 ## Style
 
 - It is styled in a partial updo, pulled back from her face while long strands frame her face and fall over her shoulders.
+- Straight ash gray bob hair.
+- Long wavy pink hair
 
 ## Ombré
 
